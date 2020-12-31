@@ -1,4 +1,4 @@
-java -jar ThinkCMF@GetShell.jar
+java -jar ThinkCMFGetShell.jar
 
 Copy the url to be scanned to the url.txt
 The url of the successful attack is saved in webshell.txt
